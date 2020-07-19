@@ -1,0 +1,6 @@
+Project Programs for Data Structures:
+ - Polynomial equations
+ - String creation and sorting using linked lists
+ - Equation conversion and evaulation
+
+Programs are created by Kimberly Tse
